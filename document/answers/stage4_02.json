@@ -1,0 +1,22 @@
+[
+  {
+    "shape": "clover",
+    "letter": "하",
+    "letter2": "트"
+  },
+  {
+    "shape": "diamond",
+    "letter": "여",
+    "letter2": "왕"
+  },
+  {
+    "shape": "heart",
+    "letter": "을",
+    "letter2": "조"
+  },
+  {
+    "shape": "spade",
+    "letter": "심",
+    "letter2": "해"
+  }
+]

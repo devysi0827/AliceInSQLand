@@ -1,0 +1,18 @@
+[
+  {
+    "shape": "clover",
+    "count(shape)": "11"
+  },
+  {
+    "shape": "diamond",
+    "count(shape)": "12"
+  },
+  {
+    "shape": "heart",
+    "count(shape)": "12"
+  },
+  {
+    "shape": "spade",
+    "count(shape)": "12"
+  }
+]

@@ -1,0 +1,47 @@
+[
+{
+    "model": "stage2.potion",
+    "pk": 1,
+    "fields": {
+        "scent": "banana",
+        "size": 2,
+        "is_left": true
+    }
+},
+{
+    "model": "stage2.potion",
+    "pk": 2,
+    "fields": {
+        "scent": "cherrypie",
+        "size": 15,
+        "is_left": true
+    }
+},
+{
+    "model": "stage2.potion",
+    "pk": 3,
+    "fields": {
+        "scent": "apple",
+        "size": 4,
+        "is_left": true
+    }
+},
+{
+    "model": "stage2.potion",
+    "pk": 4,
+    "fields": {
+        "scent": "strawberry",
+        "size": 11,
+        "is_left": true
+    }
+},
+{
+    "model": "stage2.potion",
+    "pk": 5,
+    "fields": {
+        "scent": "blueberry",
+        "size": 18,
+        "is_left": true
+    }
+}
+]

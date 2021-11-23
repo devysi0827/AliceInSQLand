@@ -1,0 +1,62 @@
+[
+  {
+    "name": "White Rabbit",
+    "attend": "O"
+  },
+  {
+    "name": "Queen of Hearts",
+    "attend": "X"
+  },
+  {
+    "name": "King of Hearts ",
+    "attend": "X"
+  },
+  {
+    "name": "Cheshire Cat ",
+    "attend": "O"
+  },
+  {
+    "name": "Duchess",
+    "attend": "O"
+  },
+  {
+    "name": "Caterpillar ",
+    "attend": "O"
+  },
+  {
+    "name": "Mad Hatter",
+    "attend": "O"
+  },
+  {
+    "name": "March Hare",
+    "attend": "O"
+  },
+  {
+    "name": "Mock Turtle",
+    "attend": "O"
+  },
+  {
+    "name": "Bill the Lizard",
+    "attend": "O"
+  },
+  {
+    "name": "Dodo",
+    "attend": "O"
+  },
+  {
+    "name": "Doorknob",
+    "attend": "X"
+  },
+  {
+    "name": "Flamingo",
+    "attend": "X"
+  },
+  {
+    "name": "Hedgehogs",
+    "attend": "O"
+  },
+  {
+    "name": "Bread-and-Butterflies",
+    "attend": "O"
+  }
+]

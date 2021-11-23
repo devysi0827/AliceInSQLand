@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Alice",
+    "sum(score)": "385",
+    "ranking": "1"
+  },
+  {
+    "name": "Queen of Hearts",
+    "sum(score)": "374",
+    "ranking": "2"
+  },
+  {
+    "name": "King of Hearts",
+    "sum(score)": "355",
+    "ranking": "3"
+  },
+  {
+    "name": "Flamingo",
+    "sum(score)": "287",
+    "ranking": "4"
+  },
+  {
+    "name": "White Rabbit",
+    "sum(score)": "353",
+    "ranking": "5"
+  }
+]

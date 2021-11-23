@@ -1,0 +1,50 @@
+[
+  {
+    "DessertName": "green tea cake",
+    "TeaName": "green tea",
+    "ingredient": "green tea",
+    "quantity": "10"
+  },
+  {
+    "DessertName": "strawberry cake",
+    "TeaName": "strawberry shake",
+    "ingredient": "strawberry",
+    "quantity": "13"
+  },
+  {
+    "DessertName": "chocolate",
+    "TeaName": "hot chocolate",
+    "ingredient": "chocolate",
+    "quantity": "13"
+  },
+  {
+    "DessertName": "mont blanc",
+    "TeaName": "chestnut hot chocolate",
+    "ingredient": "chestnut",
+    "quantity": "5"
+  },
+  {
+    "DessertName": "lemon madeleine",
+    "TeaName": "lemon tea",
+    "ingredient": "lemon",
+    "quantity": "8"
+  },
+  {
+    "DessertName": "mont blanc",
+    "TeaName": "chestnut hot chocolate",
+    "ingredient": "chestnut",
+    "quantity": "5"
+  },
+  {
+    "DessertName": "green tea cake",
+    "TeaName": "green tea",
+    "ingredient": "green tea",
+    "quantity": "10"
+  },
+  {
+    "DessertName": "black tea macaron",
+    "TeaName": "black tea",
+    "ingredient": "black tea",
+    "quantity": "8"
+  }
+]

@@ -1,0 +1,74 @@
+[
+{
+    "model": "stage1.room",
+    "pk": 1,
+    "fields": {
+        "name": "Alice",
+        "sort": "Human"
+    }
+},
+{
+    "model": "stage1.room",
+    "pk": 2,
+    "fields": {
+        "name": "Blue Door",
+        "sort": "Object"
+    }
+},
+{
+    "model": "stage1.room",
+    "pk": 3,
+    "fields": {
+        "name": "Black Door",
+        "sort": "Object"
+    }
+},
+{
+    "model": "stage1.room",
+    "pk": 4,
+    "fields": {
+        "name": "Red Door",
+        "sort": "Object"
+    }
+},
+{
+    "model": "stage1.room",
+    "pk": 5,
+    "fields": {
+        "name": "Running Rabbit",
+        "sort": "Animal"
+    }
+},
+{
+    "model": "stage1.room",
+    "pk": 6,
+    "fields": {
+        "name": "Cheshire Cat",
+        "sort": "Animal"
+    }
+},
+{
+    "model": "stage1.room",
+    "pk": 7,
+    "fields": {
+        "name": "Black Table",
+        "sort": "Object"
+    }
+},
+{
+    "model": "stage1.room",
+    "pk": 8,
+    "fields": {
+        "name": "Syncopated Clock",
+        "sort": "Object"
+    }
+},
+{
+    "model": "stage1.room",
+    "pk": 9,
+    "fields": {
+        "name": "Pink Cherry",
+        "sort": "Object"
+    }
+}
+]

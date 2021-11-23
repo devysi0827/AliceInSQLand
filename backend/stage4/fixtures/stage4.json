@@ -1,0 +1,1312 @@
+[
+{
+    "model": "stage4.spadesoldier",
+    "pk": 1,
+    "fields": {
+        "shape": "spade",
+        "number": "A",
+        "strength": 50,
+        "letter": "해"
+    }
+},
+{
+    "model": "stage4.spadesoldier",
+    "pk": 2,
+    "fields": {
+        "shape": "spade",
+        "number": "2",
+        "strength": 9,
+        "letter": "한"
+    }
+},
+{
+    "model": "stage4.spadesoldier",
+    "pk": 3,
+    "fields": {
+        "shape": "spade",
+        "number": "3",
+        "strength": 10,
+        "letter": "요"
+    }
+},
+{
+    "model": "stage4.spadesoldier",
+    "pk": 4,
+    "fields": {
+        "shape": "spade",
+        "number": "4",
+        "strength": 23,
+        "letter": "자"
+    }
+},
+{
+    "model": "stage4.spadesoldier",
+    "pk": 5,
+    "fields": {
+        "shape": "spade",
+        "number": "5",
+        "strength": 8,
+        "letter": "심"
+    }
+},
+{
+    "model": "stage4.spadesoldier",
+    "pk": 6,
+    "fields": {
+        "shape": "spade",
+        "number": "6",
+        "strength": 47,
+        "letter": "끼"
+    }
+},
+{
+    "model": "stage4.spadesoldier",
+    "pk": 7,
+    "fields": {
+        "shape": "spade",
+        "number": "7",
+        "strength": 28,
+        "letter": "리"
+    }
+},
+{
+    "model": "stage4.spadesoldier",
+    "pk": 8,
+    "fields": {
+        "shape": "spade",
+        "number": "8",
+        "strength": 14,
+        "letter": "황"
+    }
+},
+{
+    "model": "stage4.spadesoldier",
+    "pk": 9,
+    "fields": {
+        "shape": "spade",
+        "number": "9",
+        "strength": 19,
+        "letter": "지"
+    }
+},
+{
+    "model": "stage4.spadesoldier",
+    "pk": 10,
+    "fields": {
+        "shape": "spade",
+        "number": "J",
+        "strength": 12,
+        "letter": "원"
+    }
+},
+{
+    "model": "stage4.spadesoldier",
+    "pk": 11,
+    "fields": {
+        "shape": "spade",
+        "number": "Q",
+        "strength": 48,
+        "letter": "임"
+    }
+},
+{
+    "model": "stage4.spadesoldier",
+    "pk": 12,
+    "fields": {
+        "shape": "spade",
+        "number": "K",
+        "strength": 36,
+        "letter": "서"
+    }
+},
+{
+    "model": "stage4.heartsoldier",
+    "pk": 1,
+    "fields": {
+        "shape": "heart",
+        "number": "A",
+        "strength": 4,
+        "letter": "심"
+    }
+},
+{
+    "model": "stage4.heartsoldier",
+    "pk": 2,
+    "fields": {
+        "shape": "heart",
+        "number": "2",
+        "strength": 5,
+        "letter": "와"
+    }
+},
+{
+    "model": "stage4.heartsoldier",
+    "pk": 3,
+    "fields": {
+        "shape": "heart",
+        "number": "3",
+        "strength": 7,
+        "letter": "는"
+    }
+},
+{
+    "model": "stage4.heartsoldier",
+    "pk": 4,
+    "fields": {
+        "shape": "heart",
+        "number": "4",
+        "strength": 10,
+        "letter": "셔"
+    }
+},
+{
+    "model": "stage4.heartsoldier",
+    "pk": 5,
+    "fields": {
+        "shape": "heart",
+        "number": "5",
+        "strength": 9,
+        "letter": "고"
+    }
+},
+{
+    "model": "stage4.heartsoldier",
+    "pk": 6,
+    "fields": {
+        "shape": "heart",
+        "number": "6",
+        "strength": 11,
+        "letter": "토"
+    }
+},
+{
+    "model": "stage4.heartsoldier",
+    "pk": 7,
+    "fields": {
+        "shape": "heart",
+        "number": "7",
+        "strength": 2,
+        "letter": "병"
+    }
+},
+{
+    "model": "stage4.heartsoldier",
+    "pk": 8,
+    "fields": {
+        "shape": "heart",
+        "number": "8",
+        "strength": 12,
+        "letter": "조"
+    }
+},
+{
+    "model": "stage4.heartsoldier",
+    "pk": 9,
+    "fields": {
+        "shape": "heart",
+        "number": "9",
+        "strength": 6,
+        "letter": "정"
+    }
+},
+{
+    "model": "stage4.heartsoldier",
+    "pk": 10,
+    "fields": {
+        "shape": "heart",
+        "number": "J",
+        "strength": 5,
+        "letter": "원"
+    }
+},
+{
+    "model": "stage4.heartsoldier",
+    "pk": 11,
+    "fields": {
+        "shape": "heart",
+        "number": "Q",
+        "strength": 1,
+        "letter": "을"
+    }
+},
+{
+    "model": "stage4.heartsoldier",
+    "pk": 12,
+    "fields": {
+        "shape": "heart",
+        "number": "K",
+        "strength": 8,
+        "letter": "해"
+    }
+},
+{
+    "model": "stage4.diamondsoldier",
+    "pk": 1,
+    "fields": {
+        "shape": "diamond",
+        "number": "A",
+        "strength": 8,
+        "letter": "병"
+    }
+},
+{
+    "model": "stage4.diamondsoldier",
+    "pk": 2,
+    "fields": {
+        "shape": "diamond",
+        "number": "2",
+        "strength": 10,
+        "letter": "변"
+    }
+},
+{
+    "model": "stage4.diamondsoldier",
+    "pk": 3,
+    "fields": {
+        "shape": "diamond",
+        "number": "3",
+        "strength": 23,
+        "letter": "왕"
+    }
+},
+{
+    "model": "stage4.diamondsoldier",
+    "pk": 4,
+    "fields": {
+        "shape": "diamond",
+        "number": "4",
+        "strength": 8,
+        "letter": "이"
+    }
+},
+{
+    "model": "stage4.diamondsoldier",
+    "pk": 5,
+    "fields": {
+        "shape": "diamond",
+        "number": "5",
+        "strength": 20,
+        "letter": "리"
+    }
+},
+{
+    "model": "stage4.diamondsoldier",
+    "pk": 6,
+    "fields": {
+        "shape": "diamond",
+        "number": "6",
+        "strength": 19,
+        "letter": "오"
+    }
+},
+{
+    "model": "stage4.diamondsoldier",
+    "pk": 7,
+    "fields": {
+        "shape": "diamond",
+        "number": "7",
+        "strength": 17,
+        "letter": "너"
+    }
+},
+{
+    "model": "stage4.diamondsoldier",
+    "pk": 8,
+    "fields": {
+        "shape": "diamond",
+        "number": "8",
+        "strength": 12,
+        "letter": "라"
+    }
+},
+{
+    "model": "stage4.diamondsoldier",
+    "pk": 9,
+    "fields": {
+        "shape": "diamond",
+        "number": "9",
+        "strength": 7,
+        "letter": "여"
+    }
+},
+{
+    "model": "stage4.diamondsoldier",
+    "pk": 10,
+    "fields": {
+        "shape": "diamond",
+        "number": "J",
+        "strength": 14,
+        "letter": "윤"
+    }
+},
+{
+    "model": "stage4.diamondsoldier",
+    "pk": 11,
+    "fields": {
+        "shape": "diamond",
+        "number": "Q",
+        "strength": 16,
+        "letter": "세"
+    }
+},
+{
+    "model": "stage4.diamondsoldier",
+    "pk": 12,
+    "fields": {
+        "shape": "diamond",
+        "number": "K",
+        "strength": 21,
+        "letter": "일"
+    }
+},
+{
+    "model": "stage4.cloversoldier",
+    "pk": 1,
+    "fields": {
+        "shape": "clover",
+        "number": "A",
+        "strength": 8,
+        "letter": "싸"
+    }
+},
+{
+    "model": "stage4.cloversoldier",
+    "pk": 2,
+    "fields": {
+        "shape": "clover",
+        "number": "2",
+        "strength": 4,
+        "letter": "타"
+    }
+},
+{
+    "model": "stage4.cloversoldier",
+    "pk": 3,
+    "fields": {
+        "shape": "clover",
+        "number": "3",
+        "strength": 1,
+        "letter": "하"
+    }
+},
+{
+    "model": "stage4.cloversoldier",
+    "pk": 4,
+    "fields": {
+        "shape": "clover",
+        "number": "4",
+        "strength": 20,
+        "letter": "이"
+    }
+},
+{
+    "model": "stage4.cloversoldier",
+    "pk": 5,
+    "fields": {
+        "shape": "clover",
+        "number": "5",
+        "strength": 8,
+        "letter": "현"
+    }
+},
+{
+    "model": "stage4.cloversoldier",
+    "pk": 6,
+    "fields": {
+        "shape": "clover",
+        "number": "6",
+        "strength": 9,
+        "letter": "경"
+    }
+},
+{
+    "model": "stage4.cloversoldier",
+    "pk": 7,
+    "fields": {
+        "shape": "clover",
+        "number": "7",
+        "strength": 11,
+        "letter": "박"
+    }
+},
+{
+    "model": "stage4.cloversoldier",
+    "pk": 8,
+    "fields": {
+        "shape": "clover",
+        "number": "9",
+        "strength": 7,
+        "letter": "나"
+    }
+},
+{
+    "model": "stage4.cloversoldier",
+    "pk": 9,
+    "fields": {
+        "shape": "clover",
+        "number": "J",
+        "strength": 30,
+        "letter": "영"
+    }
+},
+{
+    "model": "stage4.cloversoldier",
+    "pk": 10,
+    "fields": {
+        "shape": "clover",
+        "number": "Q",
+        "strength": 32,
+        "letter": "트"
+    }
+},
+{
+    "model": "stage4.cloversoldier",
+    "pk": 11,
+    "fields": {
+        "shape": "clover",
+        "number": "K",
+        "strength": 7,
+        "letter": "피"
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 1,
+    "fields": {
+        "name": "Alice",
+        "hole": 1,
+        "score": 34
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 2,
+    "fields": {
+        "name": "Queen of Hearts",
+        "hole": 2,
+        "score": 36
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 3,
+    "fields": {
+        "name": "King of Hearts",
+        "hole": 1,
+        "score": 25
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 4,
+    "fields": {
+        "name": "Flamingo",
+        "hole": 1,
+        "score": 19
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 5,
+    "fields": {
+        "name": "White Rabbit",
+        "hole": 2,
+        "score": 32
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 6,
+    "fields": {
+        "name": "Alice",
+        "hole": 2,
+        "score": 43
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 7,
+    "fields": {
+        "name": "Queen of Hearts",
+        "hole": 1,
+        "score": 51
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 8,
+    "fields": {
+        "name": "King of Hearts",
+        "hole": 3,
+        "score": 44
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 9,
+    "fields": {
+        "name": "Flamingo",
+        "hole": 4,
+        "score": 23
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 10,
+    "fields": {
+        "name": "White Rabbit",
+        "hole": 1,
+        "score": 38
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 11,
+    "fields": {
+        "name": "Flamingo",
+        "hole": 5,
+        "score": 42
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 12,
+    "fields": {
+        "name": "King of Hearts",
+        "hole": 7,
+        "score": 38
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 13,
+    "fields": {
+        "name": "Alice",
+        "hole": 6,
+        "score": 51
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 14,
+    "fields": {
+        "name": "White Rabbit",
+        "hole": 5,
+        "score": 49
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 15,
+    "fields": {
+        "name": "Queen of Hearts",
+        "hole": 3,
+        "score": 47
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 16,
+    "fields": {
+        "name": "Alice",
+        "hole": 4,
+        "score": 54
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 17,
+    "fields": {
+        "name": "White Rabbit",
+        "hole": 8,
+        "score": 44
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 18,
+    "fields": {
+        "name": "Queen of Hearts",
+        "hole": 7,
+        "score": 36
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 19,
+    "fields": {
+        "name": "Flamingo",
+        "hole": 3,
+        "score": 41
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 20,
+    "fields": {
+        "name": "King of Hearts",
+        "hole": 4,
+        "score": 42
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 21,
+    "fields": {
+        "name": "Flamingo",
+        "hole": 7,
+        "score": 35
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 22,
+    "fields": {
+        "name": "King of Hearts",
+        "hole": 2,
+        "score": 53
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 23,
+    "fields": {
+        "name": "Alice",
+        "hole": 8,
+        "score": 48
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 24,
+    "fields": {
+        "name": "White Rabbit",
+        "hole": 6,
+        "score": 44
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 25,
+    "fields": {
+        "name": "Queen of Hearts",
+        "hole": 6,
+        "score": 48
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 26,
+    "fields": {
+        "name": "Alice",
+        "hole": 3,
+        "score": 36
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 27,
+    "fields": {
+        "name": "White Rabbit",
+        "hole": 4,
+        "score": 41
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 28,
+    "fields": {
+        "name": "Queen of Hearts",
+        "hole": 5,
+        "score": 47
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 29,
+    "fields": {
+        "name": "Flamingo",
+        "hole": 8,
+        "score": 43
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 30,
+    "fields": {
+        "name": "King of Hearts",
+        "hole": 6,
+        "score": 51
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 31,
+    "fields": {
+        "name": "Alice",
+        "hole": 5,
+        "score": 62
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 32,
+    "fields": {
+        "name": "Queen of Hearts",
+        "hole": 4,
+        "score": 59
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 33,
+    "fields": {
+        "name": "King of Hearts",
+        "hole": 8,
+        "score": 48
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 34,
+    "fields": {
+        "name": "Flamingo",
+        "hole": 2,
+        "score": 37
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 35,
+    "fields": {
+        "name": "White Rabbit",
+        "hole": 3,
+        "score": 48
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 36,
+    "fields": {
+        "name": "Alice",
+        "hole": 7,
+        "score": 57
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 37,
+    "fields": {
+        "name": "Queen of Hearts",
+        "hole": 8,
+        "score": 50
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 38,
+    "fields": {
+        "name": "King of Hearts",
+        "hole": 5,
+        "score": 54
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 39,
+    "fields": {
+        "name": "Flamingo",
+        "hole": 6,
+        "score": 47
+    }
+},
+{
+    "model": "stage4.scoreboard",
+    "pk": 40,
+    "fields": {
+        "name": "White Rabbit",
+        "hole": 7,
+        "score": 57
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 1,
+    "fields": {
+        "color": "red",
+        "size": 1
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 2,
+    "fields": {
+        "color": "red",
+        "size": 10
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 3,
+    "fields": {
+        "color": "red",
+        "size": 11
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 4,
+    "fields": {
+        "color": "white",
+        "size": 2
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 5,
+    "fields": {
+        "color": "red",
+        "size": 5
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 6,
+    "fields": {
+        "color": "white",
+        "size": 5
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 7,
+    "fields": {
+        "color": "red",
+        "size": 8
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 8,
+    "fields": {
+        "color": "white",
+        "size": 7
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 9,
+    "fields": {
+        "color": "white",
+        "size": 9
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 10,
+    "fields": {
+        "color": "red",
+        "size": 4
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 11,
+    "fields": {
+        "color": "white",
+        "size": 4
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 12,
+    "fields": {
+        "color": "red",
+        "size": 3
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 13,
+    "fields": {
+        "color": "red",
+        "size": 10
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 14,
+    "fields": {
+        "color": "white",
+        "size": 2
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 15,
+    "fields": {
+        "color": "white",
+        "size": 4
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 16,
+    "fields": {
+        "color": "red",
+        "size": 3
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 17,
+    "fields": {
+        "color": "white",
+        "size": 5
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 18,
+    "fields": {
+        "color": "red",
+        "size": 9
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 19,
+    "fields": {
+        "color": "red",
+        "size": 8
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 20,
+    "fields": {
+        "color": "red",
+        "size": 11
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 21,
+    "fields": {
+        "color": "white",
+        "size": 13
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 22,
+    "fields": {
+        "color": "white",
+        "size": 13
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 23,
+    "fields": {
+        "color": "white",
+        "size": 9
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 24,
+    "fields": {
+        "color": "white",
+        "size": 3
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 25,
+    "fields": {
+        "color": "red",
+        "size": 2
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 26,
+    "fields": {
+        "color": "red",
+        "size": 1
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 27,
+    "fields": {
+        "color": "white",
+        "size": 5
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 28,
+    "fields": {
+        "color": "white",
+        "size": 4
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 29,
+    "fields": {
+        "color": "red",
+        "size": 2
+    }
+},
+{
+    "model": "stage4.roseinfo",
+    "pk": 30,
+    "fields": {
+        "color": "white",
+        "size": 6
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 1,
+    "fields": {
+        "paint": 19,
+        "beauty": 50
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 2,
+    "fields": {
+        "paint": 23,
+        "beauty": 20
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 3,
+    "fields": {
+        "paint": 24,
+        "beauty": 34
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 4,
+    "fields": {
+        "paint": 16,
+        "beauty": 43
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 5,
+    "fields": {
+        "paint": 64,
+        "beauty": 43
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 6,
+    "fields": {
+        "paint": 62,
+        "beauty": 18
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 7,
+    "fields": {
+        "paint": 84,
+        "beauty": 34
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 8,
+    "fields": {
+        "paint": 20,
+        "beauty": 50
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 9,
+    "fields": {
+        "paint": 38,
+        "beauty": 33
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 10,
+    "fields": {
+        "paint": 32,
+        "beauty": 49
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 11,
+    "fields": {
+        "paint": 97,
+        "beauty": 48
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 12,
+    "fields": {
+        "paint": 95,
+        "beauty": 26
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 13,
+    "fields": {
+        "paint": 87,
+        "beauty": 47
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 14,
+    "fields": {
+        "paint": 14,
+        "beauty": 49
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 15,
+    "fields": {
+        "paint": 67,
+        "beauty": 15
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 16,
+    "fields": {
+        "paint": 47,
+        "beauty": 38
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 17,
+    "fields": {
+        "paint": 88,
+        "beauty": 17
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 18,
+    "fields": {
+        "paint": 26,
+        "beauty": 22
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 19,
+    "fields": {
+        "paint": 38,
+        "beauty": 28
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 20,
+    "fields": {
+        "paint": 90,
+        "beauty": 41
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 21,
+    "fields": {
+        "paint": 69,
+        "beauty": 11
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 22,
+    "fields": {
+        "paint": 32,
+        "beauty": 50
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 23,
+    "fields": {
+        "paint": 73,
+        "beauty": 50
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 24,
+    "fields": {
+        "paint": 34,
+        "beauty": 44
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 25,
+    "fields": {
+        "paint": 33,
+        "beauty": 49
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 26,
+    "fields": {
+        "paint": 43,
+        "beauty": 37
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 27,
+    "fields": {
+        "paint": 45,
+        "beauty": 33
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 28,
+    "fields": {
+        "paint": 87,
+        "beauty": 50
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 29,
+    "fields": {
+        "paint": 72,
+        "beauty": 46
+    }
+},
+{
+    "model": "stage4.rose",
+    "pk": 30,
+    "fields": {
+        "paint": 18,
+        "beauty": 50
+    }
+}
+]

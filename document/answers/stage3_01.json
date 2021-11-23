@@ -1,0 +1,18 @@
+[
+  {
+    "name": "White Rabbit",
+    "sort": "animal"
+  },
+  {
+    "name": "Duchess",
+    "sort": "human"
+  },
+  {
+    "name": "Mad Hatter",
+    "sort": "human"
+  },
+  {
+    "name": "March Hare",
+    "sort": "animal"
+  }
+]

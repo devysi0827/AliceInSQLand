@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "scent": "banana",
+    "size": "2",
+    "is_left": "1"
+  },
+  {
+    "id": "3",
+    "scent": "apple",
+    "size": "4",
+    "is_left": "1"
+  }
+]

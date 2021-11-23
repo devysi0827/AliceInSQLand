@@ -1,0 +1,450 @@
+[{
+    "stage1": [{
+        "1": [{
+                "id": 1,
+                "name": "Alice",
+                "sort": "Human"
+            },
+            {
+                "id": 2,
+                "name": "Blue Door",
+                "sort": "Object"
+            },
+            {
+                "id": 3,
+                "name": "Black Door",
+                "sort": "Object"
+            },
+            {
+                "id": 4,
+                "name": "Red Door",
+                "sort": "Object"
+            },
+            {
+                "id": 5,
+                "name": "Running Rabbit",
+                "sort": "Animal"
+            },
+            {
+                "id": 6,
+                "name": "Cheshire Cat",
+                "sort": "Animal"
+            },
+            {
+                "id": 7,
+                "name": "Black Table",
+                "sort": "Object"
+            },
+            {
+                "id": 8,
+                "name": "Syncopated Clock",
+                "sort": "Object"
+            },
+            {
+                "id": 9,
+                "name": "Pink Cherry",
+                "sort": "Object"
+            }
+        ]
+    }],
+
+    "stage2": [{
+        "1": [{
+            "id": 2,
+            "scent": "cherrypie",
+            "size": 15,
+            "is_left": 1
+        }],
+        "3": [{
+            "id": 1,
+            "scent": "banana",
+            "size": 2,
+            "is_left": 1
+        }],
+        "5": [{
+            "id": 5,
+            "scent": "blueberry",
+            "size": 18,
+            "is_left": 1
+        }],
+        "6": [{
+            "id": 1,
+            "product": "key",
+            "amount": 1
+        }],
+        "7": [{
+                "id": 4,
+                "scent": "strawberry",
+                "size": 11,
+                "is_left": 1
+            },
+            {
+                "id": 5,
+                "scent": "blueberry",
+                "size": 18,
+                "is_left": 1
+            }
+        ],
+        "8": [{
+                "id": 1,
+                "scent": "banana",
+                "size": 2,
+                "is_left": 1
+            },
+            {
+                "id": 3,
+                "scent": "apple",
+                "size": 4,
+                "is_left": 1
+            }
+        ],
+        "9": []
+    }],
+
+    "stage3": [{
+        "1": [{
+                "name": "White Rabbit",
+                "sort": "animal"
+            },
+            {
+                "name": "Duchess",
+                "sort": "human"
+            },
+            {
+                "name": "Mad Hatter",
+                "sort": "human"
+            },
+            {
+                "name": "March Hare",
+                "sort": "animal"
+            }
+        ],
+        "2": [{
+                "name": "green tea cake"
+            },
+            {
+                "name": "strawberry cake"
+            },
+            {
+                "name": "vanilla icecream"
+            },
+            {
+                "name": "mont blanc"
+            },
+            {
+                "name": "egg tart"
+            },
+            {
+                "name": "tiramisu"
+            },
+            {
+                "name": "black tea macaron"
+            }
+        ],
+        "3": [{
+                "dessertname": "green tea cake",
+                "teaname": "green tea",
+                "ingredient": "green tea",
+                "quantity": 10
+            },
+            {
+                "dessertname": "green tea cake",
+                "teaname": "green tea",
+                "ingredient": "green tea",
+                "quantity": 10
+            },
+            {
+                "dessertname": "mont blanc",
+                "teaname": "chestnut hot chocolate",
+                "ingredient": "chestnut",
+                "quantity": 5
+            },
+            {
+                "dessertname": "mont blanc",
+                "teaname": "chestnut hot chocolate",
+                "ingredient": "chestnut",
+                "quantity": 5
+            },
+            {
+                "dessertname": "chocolate",
+                "teaname": "hot chocolate",
+                "ingredient": "chocolate",
+                "quantity": 13
+            },
+            {
+                "dessertname": "lemon madeleine",
+                "teaname": "lemon tea",
+                "ingredient": "lemon",
+                "quantity": 8
+            },   
+            {
+                "dessertname": "strawberry cake",
+                "teaname": "strawberry shake",
+                "ingredient": "strawberry",
+                "quantity": 13
+            },                 
+            {
+                "dessertname": "black tea macaron",
+                "teaname": "black tea",
+                "ingredient": "black tea",
+                "quantity": 8
+            }
+        ],
+        "4": [{
+                "name": "green tea",
+                "hat": "feather hat"
+            },
+            {
+                "name": "chestnut hot chocolate",
+                "hat": "strange hat"
+            },
+            {
+                "name": "earl grey tea",
+                "hat": "strange hat"
+            },
+            {
+                "name": "black tea",
+                "hat": "striped hat"
+            },
+            {
+                "name": "black coffee",
+                "hat": "strange hat"
+            },
+            {
+                "name": "hot chocolate",
+                "hat": "strange hat"
+            },
+            {
+                "name": "lemon tea",
+                "hat": "strange hat"
+            },
+            {
+                "name": "strawberry shake",
+                "hat": "rabbit hat"
+            },
+            {
+                "name": "black tea",
+                "hat": "striped hat"
+            },
+            {
+                "name": "vin chaud",
+                "hat": "strange hat"
+            }
+        ],
+        "5": [{
+                "name": "White Rabbit",
+                "attend": "O"
+            },
+            {
+                "name": "Queen of Hearts",
+                "attend": "X"
+            },
+            {
+                "name": "King of Hearts ",
+                "attend": "X"
+            },
+            {
+                "name": "Cheshire Cat ",
+                "attend": "O"
+            },
+            {
+                "name": "Duchess",
+                "attend": "O"
+            },
+            {
+                "name": "Caterpillar ",
+                "attend": "O"
+            },
+            {
+                "name": "Mad Hatter",
+                "attend": "O"
+            },
+            {
+                "name": "March Hare",
+                "attend": "O"
+            },
+            {
+                "name": "Mock Turtle",
+                "attend": "O"
+            },
+            {
+                "name": "Bill the Lizard",
+                "attend": "O"
+            },
+            {
+                "name": "Dodo",
+                "attend": "O"
+            },
+            {
+                "name": "Doorknob",
+                "attend": "X"
+            },
+            {
+                "name": "Flamingo",
+                "attend": "X"
+            },
+            {
+                "name": "Hedgehogs",
+                "attend": "O"
+            },
+            {
+                "name": "Bread-and-Butterflies",
+                "attend": "O"
+            }
+        ]
+    }],
+
+    "stage4": [{
+        "1": [{
+                "shape": "clover",
+                "count(shape)": 11
+            },
+            {
+                "shape": "diamond",
+                "count(shape)": 12
+            },
+            {
+                "shape": "heart",
+                "count(shape)": 12
+            },
+            {
+                "shape": "spade",
+                "count(shape)": 12
+            }
+        ],
+        "2": [{
+                "shape": "clover",
+                "letter": "하",
+                "letter2": "트"
+            },
+            {
+                "shape": "spade",
+                "letter": "심",
+                "letter2": "해"
+            },
+            {
+                "shape": "diamond",
+                "letter": "여",
+                "letter2": "왕"
+            },
+            {
+                "shape": "heart",
+                "letter": "을",
+                "letter2": "조"
+            }
+        ],
+        "3": [
+            {
+                "name": "Flamingo",
+                "sum(score)": 287
+            },
+            {
+                "name": "White Rabbit",
+                "sum(score)": 353
+            },
+            {
+                "name": "King of Hearts",
+                "sum(score)": 355
+            },
+            {
+                "name": "Queen of Hearts",
+                "sum(score)": 374
+            },
+            {
+                "name": "Alice",
+                "sum(score)": 385
+            } 
+        ],
+        "4": [{
+                "id": 22,
+                "beauty": 50,
+                "paint": 32,
+                "size": 13
+            },
+            {
+                "id": 23,
+                "beauty": 50,
+                "paint": 73,
+                "size": 9
+            },
+            {
+                "id": 8,
+                "beauty": 50,
+                "paint": 20,
+                "size": 7
+            },
+            {
+                "id": 30,
+                "beauty": 50,
+                "paint": 18,
+                "size": 6
+            },
+            {
+                "id": 28,
+                "beauty": 50,
+                "paint": 87,
+                "size": 4
+            },
+            {
+                "id": 14,
+                "beauty": 49,
+                "paint": 14,
+                "size": 2
+            },
+            {
+                "id": 11,
+                "beauty": 48,
+                "paint": 97,
+                "size": 4
+            },
+            {
+                "id": 24,
+                "beauty": 44,
+                "paint": 34,
+                "size": 3
+            },
+            {
+                "id": 4,
+                "beauty": 43,
+                "paint": 16,
+                "size": 2
+            },
+            {
+                "id": 9,
+                "beauty": 33,
+                "paint": 38,
+                "size": 9
+            },
+            {
+                "id": 27,
+                "beauty": 33,
+                "paint": 45,
+                "size": 5
+            },
+            {
+                "id": 6,
+                "beauty": 18,
+                "paint": 62,
+                "size": 5
+            },
+            {
+                "id": 17,
+                "beauty": 17,
+                "paint": 88,
+                "size": 5
+            },
+            {
+                "id": 15,
+                "beauty": 15,
+                "paint": 67,
+                "size": 4
+            },
+            {
+                "id": 21,
+                "beauty": 11,
+                "paint": 69,
+                "size": 13
+            }
+        ]
+    }]
+}]
